@@ -1,7 +1,4 @@
 # Example
 
-
-##This is about my python classes
-
-
-###Today i am explaning about git and github
+Th python into i have explained in ython notebook
+of all about basics
